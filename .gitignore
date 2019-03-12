@@ -1,0 +1,6 @@
+coverage
+node_modules
+dist
+.nyc_output
+.rpt2_cache
+.idea
